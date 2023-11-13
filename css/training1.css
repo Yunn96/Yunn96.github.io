@@ -1,0 +1,27 @@
+.white-box {
+    /*width: 80%;*/
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.5px 2px 1px #eeeeee;
+}
+.left-box {
+    border-left : 1px solid darkgrey;
+    padding-left: 30px;
+}
+.pill {
+    display: inline-block;
+    border: 1px solid lightgray;
+    border-radius: 100px;
+    padding: 3px 12px 5px 12px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+}
+.fire {
+    color: steelblue;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+.sign-up {
+    text-align: center;
+}
